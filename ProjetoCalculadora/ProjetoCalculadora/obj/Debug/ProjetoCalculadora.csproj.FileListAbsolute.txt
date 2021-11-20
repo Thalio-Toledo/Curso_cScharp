@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+c:\users\thalio\documents\visual studio 2015\Projects\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb

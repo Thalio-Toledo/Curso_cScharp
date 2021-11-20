@@ -1,0 +1,11 @@
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.exe
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\bin\Debug\ACRRentalCar.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmPrincipal.resources
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.exe
+c:\users\thalio\documents\visual studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.pdb
+C:\Users\Thalio\Documents\Visual Studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmCadastroCliente.resources
+C:\Users\Thalio\Documents\Visual Studio 2015\Projects\ACRRentalCar\ACRRentalCar\obj\Debug\ACRRentalCar.frmConsultaCliente.resources

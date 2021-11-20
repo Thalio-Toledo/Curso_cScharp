@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\bin\Debug\ParametrosValorRef.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\bin\Debug\ParametrosValorRef.exe
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\bin\Debug\ParametrosValorRef.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\obj\Debug\ParametrosValorRef.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\obj\Debug\ParametrosValorRef.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\obj\Debug\ParametrosValorRef.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\obj\Debug\ParametrosValorRef.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\obj\Debug\ParametrosValorRef.exe
+c:\users\thalio\documents\visual studio 2015\Projects\ParametrosValorRef\ParametrosValorRef\obj\Debug\ParametrosValorRef.pdb

@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\obj\Debug\Projeto2.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\obj\Debug\Projeto2.frmSoma.resources
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\obj\Debug\Projeto2.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto2\Projeto2\obj\Debug\Projeto2.pdb

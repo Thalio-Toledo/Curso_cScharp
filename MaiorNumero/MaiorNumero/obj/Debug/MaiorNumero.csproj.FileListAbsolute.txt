@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\bin\Debug\MaiorNumero.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\obj\Debug\MaiorNumero.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\obj\Debug\MaiorNumero.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\obj\Debug\MaiorNumero.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\obj\Debug\MaiorNumero.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\bin\Debug\MaiorNumero.exe
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\bin\Debug\MaiorNumero.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\obj\Debug\MaiorNumero.exe
+c:\users\thalio\documents\visual studio 2015\Projects\MaiorNumero\MaiorNumero\obj\Debug\MaiorNumero.pdb

@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\bin\Debug\Projeto4.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\bin\Debug\Projeto4.exe
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\bin\Debug\Projeto4.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\obj\Debug\Projeto4.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\obj\Debug\Projeto4.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\obj\Debug\Projeto4.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\obj\Debug\Projeto4.exe
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto4\Projeto4\obj\Debug\Projeto4.pdb

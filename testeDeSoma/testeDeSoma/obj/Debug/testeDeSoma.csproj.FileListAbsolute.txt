@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\bin\Debug\testeDeSoma.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\bin\Debug\testeDeSoma.exe
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\bin\Debug\testeDeSoma.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\obj\Debug\testeDeSoma.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\obj\Debug\testeDeSoma.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\obj\Debug\testeDeSoma.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\obj\Debug\testeDeSoma.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\obj\Debug\testeDeSoma.exe
+c:\users\thalio\documents\visual studio 2015\Projects\testeDeSoma\testeDeSoma\obj\Debug\testeDeSoma.pdb

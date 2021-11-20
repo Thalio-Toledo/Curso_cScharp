@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\bin\Debug\NumerosInteriros.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\bin\Debug\NumerosInteriros.exe
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\bin\Debug\NumerosInteriros.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\obj\Debug\NumerosInteriros.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\obj\Debug\NumerosInteriros.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\obj\Debug\NumerosInteriros.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\obj\Debug\NumerosInteriros.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\obj\Debug\NumerosInteriros.exe
+c:\users\thalio\documents\visual studio 2015\Projects\NumerosInteriros\NumerosInteriros\obj\Debug\NumerosInteriros.pdb

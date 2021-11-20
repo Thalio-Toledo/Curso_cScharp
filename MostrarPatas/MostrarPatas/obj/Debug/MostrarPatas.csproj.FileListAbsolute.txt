@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\bin\Debug\MostrarPatas.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\bin\Debug\MostrarPatas.exe
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\bin\Debug\MostrarPatas.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\obj\Debug\MostrarPatas.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\obj\Debug\MostrarPatas.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\obj\Debug\MostrarPatas.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\obj\Debug\MostrarPatas.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\obj\Debug\MostrarPatas.exe
+c:\users\thalio\documents\visual studio 2015\Projects\MostrarPatas\MostrarPatas\obj\Debug\MostrarPatas.pdb

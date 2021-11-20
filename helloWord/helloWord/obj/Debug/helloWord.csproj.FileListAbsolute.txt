@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\bin\Debug\helloWord.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\bin\Debug\helloWord.exe
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\bin\Debug\helloWord.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\obj\Debug\helloWord.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\obj\Debug\helloWord.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\obj\Debug\helloWord.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\obj\Debug\helloWord.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\obj\Debug\helloWord.exe
+c:\users\thalio\documents\visual studio 2015\Projects\helloWord\helloWord\obj\Debug\helloWord.pdb

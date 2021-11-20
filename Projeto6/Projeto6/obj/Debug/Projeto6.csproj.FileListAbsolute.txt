@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\bin\Debug\Projeto6.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\bin\Debug\Projeto6.exe
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\bin\Debug\Projeto6.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.Form1.resources
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.exe
+c:\users\thalio\documents\visual studio 2015\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.pdb

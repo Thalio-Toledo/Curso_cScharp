@@ -1,0 +1,9 @@
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\bin\Debug\SomaPares.exe.config
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\bin\Debug\SomaPares.exe
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\bin\Debug\SomaPares.pdb
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\obj\Debug\SomaPares.csprojResolveAssemblyReference.cache
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\obj\Debug\SomaPares.lblNum.resources
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\obj\Debug\SomaPares.Properties.Resources.resources
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\obj\Debug\SomaPares.csproj.GenerateResource.Cache
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\obj\Debug\SomaPares.exe
+c:\users\thalio\documents\visual studio 2015\Projects\SomaPares\SomaPares\obj\Debug\SomaPares.pdb
